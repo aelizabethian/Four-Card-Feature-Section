@@ -6,7 +6,7 @@
 
 body {
   width: 85%;
-  margin: 80px auto;
+  margin: 70px auto;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
@@ -25,9 +25,11 @@ h2 {
 
 h1 {
   font-weight: 200;
+  margin-bottom: 0;
 }
 h2 {
   font-weight: bold;
+  margin-top: 5px;
 }
 
 p {
@@ -110,7 +112,6 @@ img {
   h1,
   h2 {
     font-size: 38px;
-    padding-top: 5px;
   }
 
   h3 {
